@@ -10,6 +10,6 @@
 # Fahr 404 to Celsius
 `fahr_to_celsius(404)`
 
-# 
+# Kelvin to Celsius
 `kelvin_to_celsius(273.15)`
 
